@@ -1,0 +1,20 @@
+{
+  "name": "promise_it_wont_hurt",
+  "version": "1.0.0",
+  "description": "promise_it_wont_hurt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma-bo-do-fu/promise_it_wont_hurt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ma-bo-do-fu/promise_it_wont_hurt/issues"
+  },
+  "homepage": "https://github.com/ma-bo-do-fu/promise_it_wont_hurt#readme"
+}
