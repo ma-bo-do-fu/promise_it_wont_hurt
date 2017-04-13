@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ma-bo-do-fu/promise_it_wont_hurt/issues"
   },
-  "homepage": "https://github.com/ma-bo-do-fu/promise_it_wont_hurt#readme"
+  "homepage": "https://github.com/ma-bo-do-fu/promise_it_wont_hurt#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
